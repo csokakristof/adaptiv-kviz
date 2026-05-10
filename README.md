@@ -9,4 +9,11 @@ A projekt futtatásához szükséges a Node.js és az npm telepítése.
 A szükséges csomagok telepítése:
 
 ```bash
+npm install  
+```
+
+Az alkalmazás indítása:
+
+```bash
 npm install
+```
