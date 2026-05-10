@@ -15,5 +15,5 @@ npm install
 Az alkalmazás indítása:
 
 ```bash
-npm install
+npm start
 ```
