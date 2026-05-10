@@ -6,6 +6,7 @@ React alapú webes kvízalkalmazás adaptív kérdésválasztással, XP-rendszer
 
 A projekt futtatásához szükséges a Node.js és az npm telepítése.
 
-Terminálba beítni:
+Terminálba beírni:
+
 npm install
 npm start
