@@ -9,4 +9,5 @@ A projekt futtatásához szükséges a Node.js és az npm telepítése.
 Terminálba beírni:
 
 npm install
+
 npm start
