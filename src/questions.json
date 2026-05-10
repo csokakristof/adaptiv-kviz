@@ -1,0 +1,762 @@
+[
+  {
+    "text": "Ki nyerte a 2018-as labdarúgó-világbajnokságot?",
+    "options": ["Franciaország", "Horvátország", "Németország", "Brazília"],
+    "correct": 0,
+    "topic": "Vb",
+    "difficulty": 1
+  },
+  {
+    "text": "Hol rendezték a 2022-es világbajnokságot?",
+    "options": ["Katar", "Oroszország", "USA", "Japán"],
+    "correct": 0,
+    "topic": "Vb",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik országban rendezték a 2006-os labdarúgó-világbajnokságot?",
+    "options": ["Japán/Korea", "Németország", "Dél-Afrika", "Brazília"],
+    "correct": 1,
+    "topic": "Vb",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik klub nyerte a legtöbb Bajnokok Ligáját?",
+    "options": ["Barcelona", "Real Madrid", "AC Milan", "Liverpool"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik klubhoz kötődik Lionel Messi karrierjének nagy része?",
+    "options": ["Real Madrid", "Barcelona", "PSG", "Manchester City"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik poszton játszik Manuel Neuer?",
+    "options": ["Csatár", "Középpályás", "Védő", "Kapus"],
+    "correct": 3,
+    "topic": "Játékosok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik játékos tartja a legtöbb Ballon d'Or győzelem rekordját?",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Zidane", "Neymar"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik játékosnak van a legtöbb Premier League gólja?",
+    "options": ["Harry Kane", "Wayne Rooney", "Alan Shearer", "Salah"],
+    "correct": 2,
+    "topic": "Játékosok",
+    "difficulty": 3
+  },
+  {
+    "text": "Melyik klub játszik hagyományosan piros-fehér mezben és található Londonban?",
+    "options": ["Arsenal", "Liverpool", "AC Milan", "Bayern München"],
+    "correct": 0,
+    "topic": "Klubok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik országban található az FC Barcelona?",
+    "options": ["Olaszország", "Spanyolország", "Franciaország", "Németország"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 1
+  },
+  {
+    "text": "Hány évente rendezik a labdarúgó világbajnokságot (férfi)?",
+    "options": ["2", "3", "4", "5"],
+    "correct": 2,
+    "topic": "Vb",
+    "difficulty": 1
+  },
+  {
+    "text": "Ki a világbajnokság hivatalos szervezője?",
+    "options": ["UEFA", "FIFA", "CONMEBOL", "AFC"],
+    "correct": 1,
+    "topic": "Vb",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik sorozatban szerepelnek európai klubcsapatok és a legismertebb?",
+    "options": ["Bajnokok Ligája", "Copa América", "Ázsia Kupa", "Gold Cup"],
+    "correct": 0,
+    "topic": "Klubok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik ország bajnokságában szerepel a Juventus?",
+    "options": ["Anglia", "Olaszország", "Spanyolország", "Portugália"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik klub beceneve a 'Vörösök' (The Reds) – klasszikusan?",
+    "options": ["Liverpool", "Chelsea", "PSG", "Inter"],
+    "correct": 0,
+    "topic": "Klubok",
+    "difficulty": 2
+  },
+
+  {
+    "text": "Melyik ország rendezte a 2014-es labdarúgó világbajnokságot?",
+    "options": ["Dél-Afrika", "Brazília", "Oroszország", "Katar"],
+    "correct": 1,
+    "topic": "Vb",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik ország nyerte a 2010-es labdarúgó világbajnokságot?",
+    "options": ["Spanyolország", "Németország", "Hollandia", "Olaszország"],
+    "correct": 0,
+    "topic": "Vb",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik ország nyerte a 2014-es labdarúgó világbajnokságot?",
+    "options": ["Németország", "Argentína", "Brazília", "Spanyolország"],
+    "correct": 0,
+    "topic": "Vb",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik klub játszik a Santiago Bernabéu stadionban?",
+    "options": ["Real Madrid", "Atlético Madrid", "Sevilla", "Valencia"],
+    "correct": 0,
+    "topic": "Klubok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik klub stadionja az Old Trafford?",
+    "options": ["Manchester City", "Manchester United", "Arsenal", "Tottenham"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik klub stadionja a Camp Nou (hagyományosan)?",
+    "options": ["Real Madrid", "FC Barcelona", "Espanyol", "Athletic Bilbao"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 2
+  },
+
+  {
+    "text": "Melyik ország rendezte a 2018-as labdarúgó világbajnokságot?",
+    "options": ["Oroszország", "Brazília", "Németország", "Katar"],
+    "correct": 0,
+    "topic": "Vb",
+    "difficulty": 3
+  },
+  {
+    "text": "Melyik ország rendezte a 2022-es labdarúgó világbajnokságot?",
+    "options": ["Katar", "Oroszország", "USA", "Franciaország"],
+    "correct": 0,
+    "topic": "Vb",
+    "difficulty": 2
+  },
+  {
+  "text": "Melyik válogatott nyerte a 2014-es világbajnokságot?",
+  "options": ["Németország", "Argentína", "Brazília", "Spanyolország"],
+  "correct": 0,
+  "topic": "Vb",
+  "difficulty": 1
+},
+{
+  "text": "Hány csapat jut tovább a csoportból a vb csoportkörében (klasszikus formátum)?",
+  "options": ["1", "2", "3", "4"],
+  "correct": 1,
+  "topic": "Vb",
+  "difficulty": 1
+},
+{
+  "text": "Melyik válogatott nyerte a 2010-es világbajnokságot?",
+  "options": ["Hollandia", "Spanyolország", "Németország", "Olaszország"],
+  "correct": 1,
+  "topic": "Vb",
+  "difficulty": 2
+},
+{
+  "text": "Melyik válogatott nyerte a 1998-as világbajnokságot?",
+  "options": ["Brazília", "Franciaország", "Németország", "Argentína"],
+  "correct": 1,
+  "topic": "Vb",
+  "difficulty": 2
+},
+{
+  "text": "Melyik válogatott nyerte a 1990-es világbajnokságot?",
+  "options": ["Argentína", "NSZK (Németország)", "Olaszország", "Brazília"],
+  "correct": 1,
+  "topic": "Vb",
+  "difficulty": 3
+},
+{
+  "text": "Melyik világbajnokság döntőjében történt a híres 'Zidane-fejes' incidens?",
+  "options": ["2002", "2006", "2010", "2014"],
+  "correct": 1,
+  "topic": "Vb",
+  "difficulty": 3
+},
+{
+  "text": "Melyik válogatott verte 7–1-re Brazíliát a 2014-es világbajnokság elődöntőjében?",
+  "options": ["Argentína", "Franciaország", "Németország", "Hollandia"],
+  "correct": 2,
+  "topic": "Vb",
+  "difficulty": 1
+},
+{
+  "text": "Melyik játékos szerezte a 2010-es világbajnoki döntő győztes gólját?",
+  "options": ["Fernando Torres", "David Villa", "Andrés Iniesta", "Xavi"],
+  "correct": 2,
+  "topic": "Vb",
+  "difficulty": 3
+},
+{
+  "text": "Melyik világbajnokság döntőjét döntötték el tizenegyesekkel 2006-ban?",
+  "options": ["Franciaország–Brazília", "Olaszország–Franciaország", "Németország–Argentína", "Olaszország–Brazília"],
+  "correct": 1,
+  "topic": "Vb",
+  "difficulty": 3
+},
+{
+  "text": "Melyik csapat fordított 3–0-ról 3–3-ra a 2005-ös Bajnokok Ligája döntőjében?",
+  "options": ["AC Milan", "Liverpool", "Barcelona", "Real Madrid"],
+  "correct": 1,
+  "topic": "Klubok",
+  "difficulty": 3
+},
+{
+  "text": "Melyik csapat nyerte meg veretlenül a 2003–04-es Premier League szezont?",
+  "options": ["Manchester United", "Chelsea", "Arsenal", "Liverpool"],
+  "correct": 2,
+  "topic": "Klubok",
+  "difficulty": 2
+},
+{
+  "text": "Melyik csapat győzte le a Barcelonát 8–2-re a 2020-as BL-negyeddöntőben?",
+  "options": ["PSG", "Real Madrid", "Bayern München", "Manchester City"],
+  "correct": 2,
+  "topic": "Klubok",
+  "difficulty": 1
+},
+{
+  "text": "Melyik stadionban játssza hazai meccseit a Borussia Dortmund?",
+  "options": ["Allianz Arena", "Signal Iduna Park", "Olympiastadion", "Veltins Arena"],
+  "correct": 1,
+  "topic": "Klubok",
+  "difficulty": 1
+},
+{
+  "text": "Melyik csapat ellen szerezte Sergio Ramos a 93. perces egyenlítő gólt a 2014-es BL-döntőben?",
+  "options": ["Barcelona", "Atlético Madrid", "Juventus", "Bayern München"],
+  "correct": 1,
+  "topic": "Klubok",
+  "difficulty": 3
+},
+{
+  "text": "Melyik klub nyerte meg a triplázást (bajnokság, kupa, BL) 2013-ban?",
+  "options": ["Barcelona", "Bayern München", "Inter", "Chelsea"],
+  "correct": 1,
+  "topic": "Klubok",
+  "difficulty": 3
+},
+{
+  "text": "Melyik csapat ejtette ki a PSG-t a 2017-es 6–1-es 'Remontada' mérkőzésen?",
+  "options": ["Real Madrid", "Barcelona", "Manchester City", "Bayern München"],
+  "correct": 1,
+  "topic": "Klubok",
+  "difficulty": 3
+},
+{
+  "text": "Ki szerezte a legtöbb gólt egy világbajnokságon (16 gól, 1958)?",
+  "options": ["Pelé", "Miroslav Klose", "Just Fontaine", "Gerd Müller"],
+  "correct": 2,
+  "topic": "Játékosok",
+  "difficulty": 3
+},
+{
+  "text": "Ki szerezte a 2014-es vb-n Németország győztes gólját a döntőben?",
+  "options": ["Thomas Müller", "Miroslav Klose", "Mario Götze", "Mesut Özil"],
+  "correct": 2,
+  "topic": "Játékosok",
+  "difficulty": 3
+},
+{
+  "text": "Melyik játékos szerezte az első Premier League szezonban (1992–93) a legtöbb gólt?",
+  "options": ["Alan Shearer", "Teddy Sheringham", "Eric Cantona", "Ian Wright"],
+  "correct": 1,
+  "topic": "Játékosok",
+  "difficulty": 3
+},
+{
+  "text": "Ki a Bajnokok Ligája történetének legeredményesebb játékosa?",
+  "options": ["Lionel Messi", "Cristiano Ronaldo", "Raúl", "Karim Benzema"],
+  "correct": 1,
+  "topic": "Játékosok",
+  "difficulty": 1
+},
+{
+  "text": "Melyik játékos kapott piros lapot a 2006-os világbajnoki döntőben?",
+  "options": ["Materazzi", "Zidane", "Totti", "Gattuso"],
+  "correct": 1,
+  "topic": "Játékosok",
+  "difficulty": 2
+},
+{
+  "text": "Ki tartja a legtöbb világbajnoki gólt szerző játékos rekordját?",
+  "options": ["Ronaldo (brazil)", "Gerd Müller", "Miroslav Klose", "Pelé"],
+  "correct": 2,
+  "topic": "Játékosok",
+  "difficulty": 3
+},
+{
+  "text": "Melyik játékos nyert 5 Bajnokok Ligája címet a Real Madriddal 2014–2022 között?",
+  "options": ["Luka Modrić", "Cristiano Ronaldo", "Sergio Ramos", "Karim Benzema"],
+  "correct": 0,
+  "topic": "Játékosok",
+  "difficulty": 3
+},
+{
+  "text": "Melyik játékos szerepelt a legtöbb világbajnoki mérkőzésen?",
+  "options": ["Miroslav Klose", "Lothar Matthäus", "Lionel Messi", "Cafu"],
+  "correct": 2,
+  "topic": "Játékosok",
+  "difficulty": 3
+},
+{
+  "text": "Ki az a játékos, aki 3 különböző klubbal is nyert Bajnokok Ligáját játékosként?",
+  "options": ["Clarence Seedorf", "Andrés Iniesta", "Xavi", "Paolo Maldini"],
+  "correct": 0,
+  "topic": "Játékosok",
+  "difficulty": 3
+},
+{
+  "text": "Melyik játékos szerezte a legtöbb gólt egy naptári évben (Guinness/modern rekord legismertebb)?",
+  "options": ["Cristiano Ronaldo", "Lionel Messi", "Robert Lewandowski", "Pelé"],
+  "correct": 1,
+  "topic": "Játékosok",
+  "difficulty": 3
+},
+{
+  "text": "Ki a 2014-es világbajnokság gólkirálya?",
+  "options": ["James Rodríguez", "Thomas Müller", "Neymar", "Lionel Messi"],
+  "correct": 0,
+  "topic": "Vb",
+  "difficulty": 3
+},
+{
+  "text": "Ki volt a 2010-es világbajnokság gólkirálya?",
+  "options": ["David Villa", "Thomas Müller", "Diego Forlán", "Wesley Sneijder"],
+  "correct": 1,
+  "topic": "Vb",
+  "difficulty": 3
+},
+{
+  "text": "Melyik játékos lőtte a 'pókhálós' szabadrúgásairól híres gólokat és az egyik legismertebb szabadrúgás-specialista?",
+  "options": ["Andrea Pirlo", "David Beckham", "Juninho", "Steven Gerrard"],
+  "correct": 2,
+  "topic": "Játékosok",
+  "difficulty": 3
+},
+{
+  "text": "Melyik játékos lett a 2002-es világbajnokság gólkirálya?",
+  "options": ["Ronaldo (Nazário)", "Miroslav Klose", "Rivaldo", "Oliver Kahn"],
+  "correct": 0,
+  "topic": "Vb",
+  "difficulty": 3
+},
+{
+  "text": "Melyik klub nyerte meg sorozatban háromszor a Bajnokok Ligáját 2016–2018 között?",
+  "options": ["Bayern München", "Barcelona", "Real Madrid", "Chelsea"],
+  "correct": 2,
+  "topic": "Klubok",
+  "difficulty": 3
+},
+{
+  "text": "Melyik klub nyerte meg a 1999-es Bajnokok Ligája döntőt a Manchester United ellen?",
+  "options": ["Bayern München", "Barcelona", "Real Madrid", "Juventus"],
+  "correct": 0,
+  "topic": "Klubok",
+  "difficulty": 3
+},
+{
+  "text": "Melyik klub nyerte a 2012-es Bajnokok Ligája döntőt Münchenben?",
+  "options": ["Chelsea", "Bayern München", "Barcelona", "Inter"],
+  "correct": 0,
+  "topic": "Klubok",
+  "difficulty": 3
+},
+{
+  "text": "Melyik klub nyerte meg a 2010-es Bajnokok Ligája döntőt José Mourinho vezetésével?",
+  "options": ["Real Madrid", "Inter", "Chelsea", "Porto"],
+  "correct": 1,
+  "topic": "Klubok",
+  "difficulty": 3
+},
+{
+  "text": "Melyik klub nyerte meg a 2005-ös Bajnokok Ligája döntőt az 'Isztambuli csodában'?",
+  "options": ["AC Milan", "Liverpool", "Chelsea", "Barcelona"],
+  "correct": 1,
+  "topic": "Klubok",
+  "difficulty": 3
+},
+{
+    "text": "Melyik ország válogatottjában játszik Cristiano Ronaldo?",
+    "options": ["Spanyolország", "Portugália", "Argentína", "Brazília"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik ország válogatottjában játszik Lionel Messi?",
+    "options": ["Brazília", "Argentína", "Uruguay", "Chile"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik poszton játszik általában Erling Haaland?",
+    "options": ["Kapus", "Belső védő", "Csatár", "Balhátvéd"],
+    "correct": 2,
+    "topic": "Játékosok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik klubban lett világhírű Cristiano Ronaldo Angliában?",
+    "options": ["Chelsea", "Manchester United", "Liverpool", "Arsenal"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik játékos játszott hosszú ideig a Real Madridban és horvát válogatott középpályás?",
+    "options": ["Luka Modrić", "Neymar", "Harry Kane", "Paul Pogba"],
+    "correct": 0,
+    "topic": "Játékosok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik ország válogatottjában játszott Pelé?",
+    "options": ["Argentína", "Brazília", "Portugália", "Franciaország"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik klubhoz kötődik leginkább Steven Gerrard játékoskarrierje?",
+    "options": ["Chelsea", "Liverpool", "Manchester City", "Tottenham"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik játékos volt híres a brazil válogatottban és a Barcelonában is, valamint mosolygós játékstílusáról?",
+    "options": ["Ronaldinho", "Wayne Rooney", "Frank Lampard", "Manuel Neuer"],
+    "correct": 0,
+    "topic": "Játékosok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik klub színe hagyományosan a kék Londonban?",
+    "options": ["Chelsea", "Arsenal", "Liverpool", "Roma"],
+    "correct": 0,
+    "topic": "Klubok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik város klubja az AC Milan?",
+    "options": ["Róma", "Milánó", "Torino", "Nápoly"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik klub beceneve a 'Vörös Ördögök'?",
+    "options": ["Manchester United", "Liverpool", "Arsenal", "Bayern München"],
+    "correct": 0,
+    "topic": "Klubok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik ország bajnokságában szerepel a Bayern München?",
+    "options": ["Németország", "Olaszország", "Franciaország", "Anglia"],
+    "correct": 0,
+    "topic": "Klubok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik klub hazai stadionja az Anfield?",
+    "options": ["Everton", "Liverpool", "Chelsea", "Leeds United"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik ország válogatottja nyerte a 2022-es labdarúgó-világbajnokságot?",
+    "options": ["Franciaország", "Argentína", "Horvátország", "Marokkó"],
+    "correct": 1,
+    "topic": "Vb",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik válogatott jutott döntőbe Argentína ellen a 2022-es világbajnokságon?",
+    "options": ["Franciaország", "Brazília", "Anglia", "Spanyolország"],
+    "correct": 0,
+    "topic": "Vb",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik ország nyerte a legtöbb férfi labdarúgó-világbajnokságot?",
+    "options": ["Németország", "Olaszország", "Brazília", "Argentína"],
+    "correct": 2,
+    "topic": "Vb",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik játékos viselte híresen a 10-es mezt Argentínában és Barcelonában?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Sergio Ramos", "Toni Kroos"],
+    "correct": 0,
+    "topic": "Játékosok",
+    "difficulty": 1
+  },
+  {
+    "text": "Melyik poszton játszik általában Virgil van Dijk?",
+    "options": ["Kapus", "Csatár", "Középhátvéd", "Jobbszélső"],
+    "correct": 2,
+    "topic": "Játékosok",
+    "difficulty": 1
+  },
+
+  {
+    "text": "Melyik játékos nyerte meg a 2018-as világbajnokság legjobb fiatal játékosának járó díjat?",
+    "options": ["Kylian Mbappé", "Paul Pogba", "Antoine Griezmann", "Harry Kane"],
+    "correct": 0,
+    "topic": "Játékosok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik játékos volt a 2018-as világbajnokság gólkirálya?",
+    "options": ["Kylian Mbappé", "Harry Kane", "Romelu Lukaku", "Cristiano Ronaldo"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik játékos nyerte a 2018-as világbajnokság Aranylabdáját?",
+    "options": ["Luka Modrić", "Kylian Mbappé", "Antoine Griezmann", "Eden Hazard"],
+    "correct": 0,
+    "topic": "Játékosok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik játékos szerezte a 2022-es világbajnoki döntőben Franciaország mindhárom gólját?",
+    "options": ["Olivier Giroud", "Kylian Mbappé", "Antoine Griezmann", "Karim Benzema"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik játékos védte ki híresen Randal Kolo Muani ziccerét a 2022-es vb-döntő hosszabbításában?",
+    "options": ["Hugo Lloris", "Emiliano Martínez", "Manuel Neuer", "Thibaut Courtois"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik játékos volt az FC Barcelona legendás középpályása, aki a tiki-taka egyik jelképe lett?",
+    "options": ["Xavi", "David Beckham", "Wayne Rooney", "Paolo Maldini"],
+    "correct": 0,
+    "topic": "Játékosok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik játékos volt híres az AC Milan és az olasz válogatott legendás védőjeként?",
+    "options": ["Paolo Maldini", "Didier Drogba", "Xavi", "Ryan Giggs"],
+    "correct": 0,
+    "topic": "Játékosok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik játékos volt az Arsenal legendás francia csatára?",
+    "options": ["Thierry Henry", "Zinedine Zidane", "Patrick Vieira", "Robert Pirès"],
+    "correct": 0,
+    "topic": "Játékosok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik játékos nyerte meg a 2006-os világbajnokság Aranylabdáját?",
+    "options": ["Fabio Cannavaro", "Zinedine Zidane", "Andrea Pirlo", "Miroslav Klose"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik játékos nyerte meg a 2002-es világbajnokság Aranylabdáját?",
+    "options": ["Ronaldo", "Rivaldo", "Oliver Kahn", "Ronaldinho"],
+    "correct": 2,
+    "topic": "Játékosok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik klub nyerte a 2021-es Bajnokok Ligája döntőt?",
+    "options": ["Manchester City", "Chelsea", "Bayern München", "Real Madrid"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik klub nyerte a 2020-as Bajnokok Ligáját?",
+    "options": ["PSG", "Bayern München", "Liverpool", "Juventus"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik klub nyerte a 2019-es Bajnokok Ligája döntőt?",
+    "options": ["Tottenham", "Liverpool", "Ajax", "Barcelona"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik klub nyerte a 2015-ös Bajnokok Ligája döntőt?",
+    "options": ["Juventus", "Barcelona", "Real Madrid", "Bayern München"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik klub ellen nyerte meg a Real Madrid a 2018-as BL-döntőt?",
+    "options": ["Liverpool", "Juventus", "Bayern München", "Atlético Madrid"],
+    "correct": 0,
+    "topic": "Klubok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik klub beceneve az 'Öreg Hölgy'?",
+    "options": ["Juventus", "Inter", "Roma", "Napoli"],
+    "correct": 0,
+    "topic": "Klubok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik stadionban játszik hagyományosan a Bayern München?",
+    "options": ["Signal Iduna Park", "Allianz Arena", "San Siro", "Old Trafford"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik ország rendezte az 1998-as labdarúgó-világbajnokságot?",
+    "options": ["Franciaország", "Olaszország", "Németország", "Anglia"],
+    "correct": 0,
+    "topic": "Vb",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik ország rendezte a 2010-es labdarúgó-világbajnokságot?",
+    "options": ["Brazília", "Dél-Afrika", "Németország", "Katar"],
+    "correct": 1,
+    "topic": "Vb",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik válogatott lett második a 2014-es világbajnokságon?",
+    "options": ["Brazília", "Argentína", "Hollandia", "Spanyolország"],
+    "correct": 1,
+    "topic": "Vb",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik válogatott lett harmadik a 2018-as világbajnokságon?",
+    "options": ["Belgium", "Anglia", "Horvátország", "Uruguay"],
+    "correct": 0,
+    "topic": "Vb",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik válogatott jutott először vb-elődöntőbe 2022-ben Afrikából?",
+    "options": ["Ghána", "Marokkó", "Nigéria", "Szenegál"],
+    "correct": 1,
+    "topic": "Vb",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik játékos volt a 2022-es világbajnokság legjobb játékosa?",
+    "options": ["Kylian Mbappé", "Lionel Messi", "Luka Modrić", "Antoine Griezmann"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 2
+  },
+  {
+    "text": "Melyik játékos kapta a 2022-es világbajnokság Aranycipőjét?",
+    "options": ["Lionel Messi", "Julián Álvarez", "Kylian Mbappé", "Olivier Giroud"],
+    "correct": 2,
+    "topic": "Játékosok",
+    "difficulty": 2
+  },
+
+  {
+    "text": "Melyik válogatott nyerte az első labdarúgó-világbajnokságot 1930-ban?",
+    "options": ["Brazília", "Uruguay", "Argentína", "Olaszország"],
+    "correct": 1,
+    "topic": "Vb",
+    "difficulty": 3
+  },
+  {
+    "text": "Melyik országban rendezték az első labdarúgó-világbajnokságot?",
+    "options": ["Uruguay", "Brazília", "Anglia", "Franciaország"],
+    "correct": 0,
+    "topic": "Vb",
+    "difficulty": 3
+  },
+  {
+    "text": "Melyik válogatott nyerte az 1986-os világbajnokságot?",
+    "options": ["NSZK", "Argentína", "Brazília", "Franciaország"],
+    "correct": 1,
+    "topic": "Vb",
+    "difficulty": 3
+  },
+  {
+    "text": "Melyik játékoshoz köthető az 1986-os világbajnokság 'Isten keze' gólja?",
+    "options": ["Pelé", "Diego Maradona", "Michel Platini", "Gary Lineker"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 3
+  },
+  {
+    "text": "Melyik játékos szerezte a 1998-as vb-döntőben Franciaország első két gólját?",
+    "options": ["Thierry Henry", "Zinedine Zidane", "David Trezeguet", "Emmanuel Petit"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 3
+  },
+  {
+    "text": "Melyik klub nyerte meg a 2004-es Bajnokok Ligáját José Mourinhóval?",
+    "options": ["Chelsea", "Porto", "Inter", "Real Madrid"],
+    "correct": 1,
+    "topic": "Klubok",
+    "difficulty": 3
+  },
+  {
+    "text": "Melyik klub nyerte meg a Bajnokok Ligáját 1995-ben az Ajax fiatal csapatával?",
+    "options": ["Ajax", "AC Milan", "Juventus", "Barcelona"],
+    "correct": 0,
+    "topic": "Klubok",
+    "difficulty": 3
+  },
+  {
+    "text": "Melyik játékos lőtte a győztes gólt a 2012-es BL-döntőben?",
+    "options": ["Frank Lampard", "Didier Drogba", "Fernando Torres", "Juan Mata"],
+    "correct": 1,
+    "topic": "Játékosok",
+    "difficulty": 3
+  }
+]  
