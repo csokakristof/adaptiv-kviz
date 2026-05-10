@@ -17,3 +17,5 @@ Az alkalmazás indítása:
 ```bash
 npm start
 ```
+
+Sikeres indítás után az alkalmazás az alábbi címen érhető el: http://localhost:3000
